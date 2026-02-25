@@ -22,4 +22,4 @@ Ghabriela de Oliveira Santos Luminato
 
 E-mail: ghabriela.santosluminato@gmail.com</a>
 
-<img src="logo.png" alt="Logo Ghabriela" width="120">
+<img src="LOGO GHABRIELA.jpg" alt="Logo Ghabriela" width="120">

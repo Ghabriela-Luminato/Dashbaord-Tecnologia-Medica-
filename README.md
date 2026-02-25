@@ -20,5 +20,6 @@ Depois disto o seu navegador padrão abrirá o servidor local do Streamlit !
 
 Ghabriela de Oliveira Santos Luminato
 
-E-mail: ghabriela.santosluminato@gmail.com</a>
+E-mail: ghabriela.santosluminato@gmail.com
+
 <img src="https://raw.githubusercontent.com/Ghabriela-Luminato/Dashbaord-Tecnologia-Medica-/main/Logo%20Ghabriela.jpg" width="120">

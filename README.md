@@ -22,7 +22,4 @@ Ghabriela de Oliveira Santos Luminato
 
 E-mail: ghabriela.santosluminato@gmail.com</a>
 
-<img src="https://github.com/Ghabriela-Luminato/Dashbaord-Tecnologia-Medica-/assets/153844509/7a911300-8937-4c88-9a44-ca5a31fd434d" 
-alt="Logo Ghabriela"
-width="120">
-
+<img src="logo.png" alt="Logo Ghabriela" width="120">
